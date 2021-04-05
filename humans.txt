@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Liam Wholaver		liamwho10@gmail.com	@liamwho10
 
 # THANKS
 
